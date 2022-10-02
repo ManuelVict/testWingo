@@ -1,16 +1,16 @@
 {
   "name": "testwingo",
   "version": "1.0.0",
-  "description": "Technical test for Double V Partners ",
+  "description": "Technical test for Double V Partners",
   "main": "index.js",
   "scripts": {
     "test": "npx cypress open run",
-    "test3": "cypress run --browser edge",
+    "testCli": "cypress run --browser edge",
     "testManual": "cypress open"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^10.9.0"
+    "cypress": "10.9.0"
   }
 }
