@@ -1,7 +1,7 @@
 {
   "name": "testwingo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Technical test for Double V Partners ",
   "main": "index.js",
   "scripts": {
     "test": "npx cypress open run",
