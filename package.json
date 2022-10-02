@@ -1,0 +1,16 @@
+{
+  "name": "testwingo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open run",
+    "test3": "cypress run --browser edge",
+    "testManual": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.9.0"
+  }
+}
